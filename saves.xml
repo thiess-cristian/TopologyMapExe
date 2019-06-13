@@ -1,0 +1,388 @@
+<Elements model_name="back">
+ <MotionBodies>
+  <MotionBody name="Ground">
+   <Origin x="343.5642104368587" y="776.7635966638009"/>
+   <BoundingRect w="85" x="343.5642104368587" y="776.7635966638009" h="50"/>
+   <Color r="128" a="128" g="128" b="255"/>
+  </MotionBody>
+  <MotionBody name="aft_lca_l">
+   <Origin x="289.4245236451258" y="1266.706889783057"/>
+   <BoundingRect w="91" x="289.4245236451258" y="1266.706889783057" h="50"/>
+   <Color r="128" a="128" g="128" b="255"/>
+  </MotionBody>
+  <MotionBody name="aft_lca_r">
+   <Origin x="201.3943150053722" y="353.4911535800236"/>
+   <BoundingRect w="93" x="201.3943150053722" y="353.4911535800236" h="50"/>
+   <Color r="0" a="255" g="255" b="0"/>
+  </MotionBody>
+  <MotionBody name="axle_l">
+   <Origin x="375.1791942621606" y="1292.558184412306"/>
+   <BoundingRect w="78" x="375.1791942621606" y="1292.558184412306" h="50"/>
+   <Color r="128" a="128" g="128" b="255"/>
+  </MotionBody>
+  <MotionBody name="axle_r">
+   <Origin x="152.6540249676416" y="204.1279809982622"/>
+   <BoundingRect w="80" x="152.6540249676416" y="204.1279809982622" h="50"/>
+   <Color r="0" a="255" g="255" b="0"/>
+  </MotionBody>
+  <MotionBody name="bell_crank_l">
+   <Origin x="152.1796238234922" y="1248.267601421712"/>
+   <BoundingRect w="106" x="152.1796238234922" y="1248.267601421712" h="50"/>
+   <Color r="128" a="128" g="128" b="255"/>
+  </MotionBody>
+  <MotionBody name="bell_crank_r">
+   <Origin x="58.02738451320404" y="348.326086178712"/>
+   <BoundingRect w="108" x="58.02738451320404" y="348.326086178712" h="50"/>
+   <Color r="0" a="255" g="255" b="0"/>
+  </MotionBody>
+  <MotionBody name="caliper_l">
+   <Origin x="279.0807511210125" y="1437.899791353288"/>
+   <BoundingRect w="89" x="279.0807511210125" y="1437.899791353288" h="50"/>
+   <Color r="128" a="128" g="128" b="255"/>
+  </MotionBody>
+  <MotionBody name="caliper_r">
+   <Origin x="473.7655001030484" y="212.0982461081948"/>
+   <BoundingRect w="91" x="473.7655001030484" y="212.0982461081948" h="50"/>
+   <Color r="0" a="255" g="255" b="0"/>
+  </MotionBody>
+  <MotionBody name="dummy_chassis_rear">
+   <Origin x="190.1352811931184" y="785.1722522512528"/>
+   <BoundingRect w="150" x="190.1352811931184" y="785.1722522512528" h="50"/>
+   <Color r="0" a="255" g="255" b="0"/>
+  </MotionBody>
+  <MotionBody name="fore_lca_l">
+   <Origin x="244.1539775470227" y="1258.329080429094"/>
+   <BoundingRect w="97" x="244.1539775470227" y="1258.329080429094" h="50"/>
+   <Color r="128" a="128" g="128" b="255"/>
+  </MotionBody>
+  <MotionBody name="fore_lca_r">
+   <Origin x="224.5038142525066" y="315.7996559489719"/>
+   <BoundingRect w="99" x="224.5038142525066" y="315.7996559489719" h="50"/>
+   <Color r="0" a="255" g="255" b="0"/>
+  </MotionBody>
+  <MotionBody name="mount_l">
+   <Origin x="241.4890912181561" y="1167.150167768344"/>
+   <BoundingRect w="88" x="241.4890912181561" y="1167.150167768344" h="50"/>
+   <Color r="128" a="128" g="128" b="255"/>
+  </MotionBody>
+  <MotionBody name="mount_r">
+   <Origin x="149.2883800958512" y="402.1572911947034"/>
+   <BoundingRect w="90" x="149.2883800958512" y="402.1572911947034" h="50"/>
+   <Color r="0" a="255" g="255" b="0"/>
+  </MotionBody>
+  <MotionBody name="shock_cyl_l">
+   <Origin x="92.84304029442303" y="1210.345003741627"/>
+   <BoundingRect w="104" x="92.84304029442303" y="1210.345003741627" h="50"/>
+   <Color r="128" a="128" g="128" b="255"/>
+  </MotionBody>
+  <MotionBody name="shock_cyl_r">
+   <Origin x="-7.563658086083696" y="356.2180976224572"/>
+   <BoundingRect w="106" x="-7.563658086083696" y="356.2180976224572" h="50"/>
+   <Color r="0" a="255" g="255" b="0"/>
+  </MotionBody>
+  <MotionBody name="shock_rod_l">
+   <Origin x="124.9713376131605" y="1117.720821085221"/>
+   <BoundingRect w="107" x="124.9713376131605" y="1117.720821085221" h="50"/>
+   <Color r="128" a="128" g="128" b="255"/>
+  </MotionBody>
+  <MotionBody name="shock_rod_r">
+   <Origin x="51.79503626411911" y="427.051297374867"/>
+   <BoundingRect w="109" x="51.79503626411911" y="427.051297374867" h="50"/>
+   <Color r="0" a="255" g="255" b="0"/>
+  </MotionBody>
+  <MotionBody name="shock_strut_l">
+   <Origin x="189.1987712786188" y="1334.147148434328"/>
+   <BoundingRect w="114" x="189.1987712786188" y="1334.147148434328" h="50"/>
+   <Color r="128" a="128" g="128" b="255"/>
+  </MotionBody>
+  <MotionBody name="shock_strut_r">
+   <Origin x="91.81329587448356" y="268.8473515432113"/>
+   <BoundingRect w="116" x="91.81329587448356" y="268.8473515432113" h="50"/>
+   <Color r="0" a="255" g="255" b="0"/>
+  </MotionBody>
+  <MotionBody name="spindle_l">
+   <Origin x="289.186976553645" y="1334.430710066643"/>
+   <BoundingRect w="91" x="289.186976553645" y="1334.430710066643" h="50"/>
+   <Color r="128" a="128" g="128" b="255"/>
+  </MotionBody>
+  <MotionBody name="spindle_r">
+   <Origin x="197.6376056445948" y="246.5935079558965"/>
+   <BoundingRect w="93" x="197.6376056445948" y="246.5935079558965" h="50"/>
+   <Color r="0" a="255" g="255" b="0"/>
+  </MotionBody>
+  <MotionBody name="spinner_l">
+   <Origin x="508.3837225958655" y="1444.827005322984"/>
+   <BoundingRect w="93" x="508.3837225958655" y="1444.827005322984" h="50"/>
+   <Color r="128" a="128" g="128" b="255"/>
+  </MotionBody>
+  <MotionBody name="spinner_r">
+   <Origin x="150.2747798577648" y="17"/>
+   <BoundingRect w="95" x="150.2747798577648" y="17" h="50"/>
+   <Color r="0" a="255" g="255" b="0"/>
+  </MotionBody>
+  <MotionBody name="tire_lr">
+   <Origin x="459.5946246270871" y="1496.856362907432"/>
+   <BoundingRect w="78" x="459.5946246270871" y="1496.856362907432" h="50"/>
+   <Color r="128" a="128" g="128" b="255"/>
+  </MotionBody>
+  <MotionBody name="tire_rr">
+   <Origin x="258.0664162850275" y="31.06342952335718"/>
+   <BoundingRect w="80" x="258.0664162850275" y="31.06342952335718" h="50"/>
+   <Color r="0" a="255" g="255" b="0"/>
+  </MotionBody>
+  <MotionBody name="uca_l">
+   <Origin x="296.4229014100641" y="1221.644031932036"/>
+   <BoundingRect w="75" x="296.4229014100641" y="1221.644031932036" h="50"/>
+   <Color r="128" a="128" g="128" b="255"/>
+  </MotionBody>
+  <MotionBody name="uca_r">
+   <Origin x="164.0099881186331" y="316.2753138087795"/>
+   <BoundingRect w="77" x="164.0099881186331" y="316.2753138087795" h="50"/>
+   <Color r="0" a="255" g="255" b="0"/>
+  </MotionBody>
+  <MotionBody name="wheel_l">
+   <Origin x="420.3606184666994" y="1403.903044170048"/>
+   <BoundingRect w="86" x="420.3606184666994" y="1403.903044170048" h="50"/>
+   <Color r="128" a="128" g="128" b="255"/>
+  </MotionBody>
+  <MotionBody name="wheel_r">
+   <Origin x="202.7041923029951" y="127.3794677924475"/>
+   <BoundingRect w="88" x="202.7041923029951" y="127.3794677924475" h="50"/>
+   <Color r="0" a="255" g="255" b="0"/>
+  </MotionBody>
+ </MotionBodies>
+ <Joints>
+  <Joint name="ball_jt1_l">
+   <Base x="289.186976553645" y="1334.430710066643"/>
+   <Action x="296.4229014100641" y="1221.644031932036"/>
+   <Color r="0" a="255" g="0" b="0"/>
+  </Joint>
+  <Joint name="ball_jt1_r">
+   <Base x="197.6376056445948" y="246.5935079558965"/>
+   <Action x="164.0099881186331" y="316.2753138087795"/>
+   <Color r="0" a="255" g="0" b="0"/>
+  </Joint>
+  <Joint name="ball_jt2_l">
+   <Base x="289.186976553645" y="1334.430710066643"/>
+   <Action x="289.4245236451258" y="1266.706889783057"/>
+   <Color r="0" a="255" g="0" b="0"/>
+  </Joint>
+  <Joint name="ball_jt2_r">
+   <Base x="197.6376056445948" y="246.5935079558965"/>
+   <Action x="201.3943150053722" y="353.4911535800236"/>
+   <Color r="0" a="255" g="0" b="0"/>
+  </Joint>
+  <Joint name="ball_jt3_l">
+   <Base x="289.186976553645" y="1334.430710066643"/>
+   <Action x="189.1987712786188" y="1334.147148434328"/>
+   <Color r="0" a="255" g="0" b="0"/>
+  </Joint>
+  <Joint name="ball_jt3_r">
+   <Base x="197.6376056445948" y="246.5935079558965"/>
+   <Action x="91.81329587448356" y="268.8473515432113"/>
+   <Color r="0" a="255" g="0" b="0"/>
+  </Joint>
+  <Joint name="ball_jt4_l">
+   <Base x="289.186976553645" y="1334.430710066643"/>
+   <Action x="244.1539775470227" y="1258.329080429094"/>
+   <Color r="0" a="255" g="0" b="0"/>
+  </Joint>
+  <Joint name="ball_jt4_r">
+   <Base x="197.6376056445948" y="246.5935079558965"/>
+   <Action x="224.5038142525066" y="315.7996559489719"/>
+   <Color r="0" a="255" g="0" b="0"/>
+  </Joint>
+  <Joint name="ball_jt5_l">
+   <Base x="241.4890912181561" y="1167.150167768344"/>
+   <Action x="289.4245236451258" y="1266.706889783057"/>
+   <Color r="0" a="255" g="0" b="0"/>
+  </Joint>
+  <Joint name="ball_jt5_r">
+   <Base x="149.2883800958512" y="402.1572911947034"/>
+   <Action x="201.3943150053722" y="353.4911535800236"/>
+   <Color r="0" a="255" g="0" b="0"/>
+  </Joint>
+  <Joint name="ball_jt6_l">
+   <Base x="241.4890912181561" y="1167.150167768344"/>
+   <Action x="244.1539775470227" y="1258.329080429094"/>
+   <Color r="0" a="255" g="0" b="0"/>
+  </Joint>
+  <Joint name="ball_jt6_r">
+   <Base x="149.2883800958512" y="402.1572911947034"/>
+   <Action x="224.5038142525066" y="315.7996559489719"/>
+   <Color r="0" a="255" g="0" b="0"/>
+  </Joint>
+  <Joint name="ball_jt7_l">
+   <Base x="241.4890912181561" y="1167.150167768344"/>
+   <Action x="244.1539775470227" y="1258.329080429094"/>
+   <Color r="0" a="255" g="0" b="0"/>
+  </Joint>
+  <Joint name="ball_jt7_r">
+   <Base x="149.2883800958512" y="402.1572911947034"/>
+   <Action x="224.5038142525066" y="315.7996559489719"/>
+   <Color r="0" a="255" g="0" b="0"/>
+  </Joint>
+  <Joint name="ball_jt8_l">
+   <Base x="241.4890912181561" y="1167.150167768344"/>
+   <Action x="296.4229014100641" y="1221.644031932036"/>
+   <Color r="0" a="255" g="0" b="0"/>
+  </Joint>
+  <Joint name="ball_jt8_r">
+   <Base x="149.2883800958512" y="402.1572911947034"/>
+   <Action x="164.0099881186331" y="316.2753138087795"/>
+   <Color r="0" a="255" g="0" b="0"/>
+  </Joint>
+  <Joint name="ball_jt9_l">
+   <Base x="241.4890912181561" y="1167.150167768344"/>
+   <Action x="296.4229014100641" y="1221.644031932036"/>
+   <Color r="0" a="255" g="0" b="0"/>
+  </Joint>
+  <Joint name="ball_jt9_r">
+   <Base x="149.2883800958512" y="402.1572911947034"/>
+   <Action x="164.0099881186331" y="316.2753138087795"/>
+   <Color r="0" a="255" g="0" b="0"/>
+  </Joint>
+  <Joint name="ball_shock_l">
+   <Base x="241.4890912181561" y="1167.150167768344"/>
+   <Action x="124.9713376131605" y="1117.720821085221"/>
+   <Color r="0" a="255" g="0" b="0"/>
+  </Joint>
+  <Joint name="ball_shock_r">
+   <Base x="149.2883800958512" y="402.1572911947034"/>
+   <Action x="51.79503626411911" y="427.051297374867"/>
+   <Color r="0" a="255" g="0" b="0"/>
+  </Joint>
+  <Joint name="bearing_spindle_wheel_l">
+   <Base x="289.186976553645" y="1334.430710066643"/>
+   <Action x="420.3606184666994" y="1403.903044170048"/>
+   <Color r="0" a="255" g="0" b="0"/>
+  </Joint>
+  <Joint name="bearing_spindle_wheel_r">
+   <Base x="197.6376056445948" y="246.5935079558965"/>
+   <Action x="202.7041923029951" y="127.3794677924475"/>
+   <Color r="0" a="255" g="0" b="0"/>
+  </Joint>
+  <Joint name="fix_spindle_disk_l">
+   <Base x="289.186976553645" y="1334.430710066643"/>
+   <Action x="279.0807511210125" y="1437.899791353288"/>
+   <Color r="0" a="255" g="0" b="0"/>
+  </Joint>
+  <Joint name="fix_spindle_disk_r">
+   <Base x="197.6376056445948" y="246.5935079558965"/>
+   <Action x="473.7655001030484" y="212.0982461081948"/>
+   <Color r="0" a="255" g="0" b="0"/>
+  </Joint>
+  <Joint name="fix_wheel_tire_l">
+   <Base x="459.5946246270871" y="1496.856362907432"/>
+   <Action x="420.3606184666994" y="1403.903044170048"/>
+   <Color r="0" a="255" g="0" b="0"/>
+  </Joint>
+  <Joint name="fix_wheel_tire_r">
+   <Base x="258.0664162850275" y="31.06342952335718"/>
+   <Action x="202.7041923029951" y="127.3794677924475"/>
+   <Color r="0" a="255" g="0" b="0"/>
+  </Joint>
+  <Joint name="grnd1">
+   <Base x="190.1352811931184" y="785.1722522512528"/>
+   <Action x="241.4890912181561" y="1167.150167768344"/>
+   <Color r="0" a="255" g="0" b="0"/>
+  </Joint>
+  <Joint name="grnd2">
+   <Base x="190.1352811931184" y="785.1722522512528"/>
+   <Action x="149.2883800958512" y="402.1572911947034"/>
+   <Color r="0" a="255" g="0" b="0"/>
+  </Joint>
+  <Joint name="pivot_bell_crank_l">
+   <Base x="241.4890912181561" y="1167.150167768344"/>
+   <Action x="152.1796238234922" y="1248.267601421712"/>
+   <Color r="0" a="255" g="0" b="0"/>
+  </Joint>
+  <Joint name="pivot_bell_crank_r">
+   <Base x="149.2883800958512" y="402.1572911947034"/>
+   <Action x="58.02738451320404" y="348.326086178712"/>
+   <Color r="0" a="255" g="0" b="0"/>
+  </Joint>
+  <Joint name="slider_shock_l">
+   <Base x="124.9713376131605" y="1117.720821085221"/>
+   <Action x="92.84304029442303" y="1210.345003741627"/>
+   <Color r="0" a="255" g="0" b="0"/>
+  </Joint>
+  <Joint name="slider_shock_r">
+   <Base x="51.79503626411911" y="427.051297374867"/>
+   <Action x="-7.563658086083696" y="356.2180976224572"/>
+   <Color r="0" a="255" g="0" b="0"/>
+  </Joint>
+  <Joint name="trans_halfshaft_l">
+   <Base x="241.4890912181561" y="1167.150167768344"/>
+   <Action x="375.1791942621606" y="1292.558184412306"/>
+   <Color r="0" a="255" g="0" b="0"/>
+  </Joint>
+  <Joint name="trans_halfshaft_r">
+   <Base x="149.2883800958512" y="402.1572911947034"/>
+   <Action x="152.6540249676416" y="204.1279809982622"/>
+   <Color r="0" a="255" g="0" b="0"/>
+  </Joint>
+  <Joint name="u_jt_bell_crank_l">
+   <Base x="152.1796238234922" y="1248.267601421712"/>
+   <Action x="189.1987712786188" y="1334.147148434328"/>
+   <Color r="0" a="255" g="0" b="0"/>
+  </Joint>
+  <Joint name="u_jt_bell_crank_r">
+   <Base x="58.02738451320404" y="348.326086178712"/>
+   <Action x="91.81329587448356" y="268.8473515432113"/>
+   <Color r="0" a="255" g="0" b="0"/>
+  </Joint>
+  <Joint name="u_jt_halfshaft_wheel_l">
+   <Base x="420.3606184666994" y="1403.903044170048"/>
+   <Action x="375.1791942621606" y="1292.558184412306"/>
+   <Color r="0" a="255" g="0" b="0"/>
+  </Joint>
+  <Joint name="u_jt_halfshaft_wheel_r">
+   <Base x="202.7041923029951" y="127.3794677924475"/>
+   <Action x="152.6540249676416" y="204.1279809982622"/>
+   <Color r="0" a="255" g="0" b="0"/>
+  </Joint>
+  <Joint name="u_jt_shock_l">
+   <Base x="152.1796238234922" y="1248.267601421712"/>
+   <Action x="92.84304029442303" y="1210.345003741627"/>
+   <Color r="0" a="255" g="0" b="0"/>
+  </Joint>
+  <Joint name="u_jt_shock_r">
+   <Base x="58.02738451320404" y="348.326086178712"/>
+   <Action x="-7.563658086083696" y="356.2180976224572"/>
+   <Color r="0" a="255" g="0" b="0"/>
+  </Joint>
+  <Joint name="wheel_spinner_l">
+   <Base x="508.3837225958655" y="1444.827005322984"/>
+   <Action x="420.3606184666994" y="1403.903044170048"/>
+   <Color r="0" a="255" g="0" b="0"/>
+  </Joint>
+  <Joint name="wheel_spinner_r">
+   <Base x="150.2747798577648" y="17"/>
+   <Action x="202.7041923029951" y="127.3794677924475"/>
+   <Color r="0" a="255" g="0" b="0"/>
+  </Joint>
+ </Joints>
+ <Connectors>
+  <Connector name="D001">
+   <Base x="92.84304029442303" y="1210.345003741627"/>
+   <Action x="124.9713376131605" y="1117.720821085221"/>
+   <Color r="255" a="255" g="0" b="0"/>
+  </Connector>
+  <Connector name="D002">
+   <Base x="-7.563658086083696" y="356.2180976224572"/>
+   <Action x="51.79503626411911" y="427.051297374867"/>
+   <Color r="255" a="255" g="0" b="0"/>
+  </Connector>
+  <Connector name="S001">
+   <Base x="92.84304029442303" y="1210.345003741627"/>
+   <Action x="124.9713376131605" y="1117.720821085221"/>
+   <Color r="255" a="255" g="0" b="0"/>
+  </Connector>
+  <Connector name="S002">
+   <Base x="-7.563658086083696" y="356.2180976224572"/>
+   <Action x="51.79503626411911" y="427.051297374867"/>
+   <Color r="255" a="255" g="0" b="0"/>
+  </Connector>
+ </Connectors>
+</Elements>
